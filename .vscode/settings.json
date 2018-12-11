@@ -1,0 +1,71 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": false,
+  "editor.detectIndentation": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveTimeout": 10000,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "auto-close-tag.SublimeText3Mode": true,
+  "javascript.format.enable": false,
+  "npm.packageManager": "yarn",
+  "eslint.packageManager": "yarn",
+  "eslint.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.provideLintTask": false,
+  "eslint.run": "onType",
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    {
+      "language": "vue",
+      "autoFix": true
+    }
+  ],
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "scss.showErrors": true,
+  "stylelint.enable": true,
+  "prettier.eslintIntegration": true,
+  "prettier.stylelintIntegration": true,
+  "prettier.disableLanguages": [
+    "vue"
+  ],
+  "vetur.validation.template": false,
+  "vetur.format.options.useTabs": true,
+  "vetur.format.defaultFormatter.less": "prettier",
+  "vetur.format.defaultFormatter.postcss": "prettier",
+  "vetur.format.defaultFormatter.scss": "prettier",
+  "vetur.format.defaultFormatter.js": "prettier-eslint",
+  "vetur.format.defaultFormatter.css": "prettier",
+  "vetur.format.defaultFormatter.html": "prettyhtml",
+  "vetur.format.defaultFormatterOptions": {
+    "prettyhtml": {
+      "printWidth": 80,
+      "singleQuote": false,
+      "wrapAttributes": true,
+      "sortAttributes": false
+    }
+  },
+  "[php]": {
+    "editor.insertSpaces": false
+  },
+  "[javascript]": {
+    "editor.insertSpaces": true
+  },
+  "[json]": {
+    "editor.insertSpaces": true
+  },
+  "[xml]": {
+    "editor.insertSpaces": true
+  },
+  "[yaml]": {
+    "editor.insertSpaces": true
+  },
+  "[scss]": {
+    "editor.insertSpaces": false
+  }
+}

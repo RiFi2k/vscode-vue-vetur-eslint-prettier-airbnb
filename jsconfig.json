@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "es6"
+  },
+  "include": [],
+  "exclude": ["node_modules"]
+}
