@@ -9,3 +9,11 @@
 * Prettier - Code formatter - esbenp.prettier-vscode
 * stylelint - shinnn.stylelint
 * Vetur - octref.vetur
+
+Added my full list of extensions and also my user settings along with the workspace settings.
+This is still working great and I use it everyday without fail.
+
+If anyone is interested to load up my full setup they will probably be in for a suprise about how I have the editor set up.
+**I promise if you tried the file explorer on the right side for a week or two you would never go back!!!**
+
+I also use [VSCodium from this github repo](https://github.com/VSCodium/vscodium) and my user settings have pretty much every random hidden tracker instance turned off that I could find.
