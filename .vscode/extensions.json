@@ -101,6 +101,16 @@
   },
   {
     "metadata": {
+      "id": "d1b4c348-b276-414f-9f5e-d951102dd208",
+      "publisherId": "philsinatra.popping-and-locking-vscode-black",
+      "publisherDisplayName": "philsinatra"
+    },
+    "name": "popping-and-locking-vscode-black",
+    "publisher": "philsinatra",
+    "version": "1.1.6"
+  },
+  {
+    "metadata": {
       "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
       "publisherId": "esbenp.prettier-vscode",
       "publisherDisplayName": "esbenp"
@@ -158,6 +168,16 @@
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
     "version": "1.8.0"
+  },
+  {
+    "metadata": {
+      "id": "829a192d-496c-44ac-87f3-0a84ce36a853",
+      "publisherId": "emmanuelbeziat.vscode-great-icons",
+      "publisherDisplayName": "emmanuelbeziat"
+    },
+    "name": "vscode-great-icons",
+    "publisher": "emmanuelbeziat",
+    "version": "2.1.46"
   },
   {
     "metadata": {
