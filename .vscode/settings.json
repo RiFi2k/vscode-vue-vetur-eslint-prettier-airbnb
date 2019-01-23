@@ -7,7 +7,6 @@
   "editor.formatOnSaveTimeout": 10000,
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
-  "auto-close-tag.SublimeText3Mode": true,
   "javascript.format.enable": false,
   "npm.packageManager": "yarn",
   "eslint.packageManager": "yarn",
@@ -31,9 +30,7 @@
   "stylelint.enable": true,
   "prettier.eslintIntegration": true,
   "prettier.stylelintIntegration": true,
-  "prettier.disableLanguages": [
-    "vue"
-  ],
+  "prettier.disableLanguages": ["vue"],
   "vetur.validation.template": false,
   "vetur.format.options.useTabs": true,
   "vetur.format.defaultFormatter.less": "prettier",
@@ -50,6 +47,18 @@
       "sortAttributes": false
     }
   },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/vendor/**": true
+  },
+  "scss.scannerExclude": [
+    "**/.git",
+    "**/node_modules",
+    "**/bower_components",
+    "**/vendor"
+  ],
   "[php]": {
     "editor.insertSpaces": false
   },
