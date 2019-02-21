@@ -3,6 +3,8 @@
 * Auto-formats and lints .vue, .js, .scss
 * If anyone is interested I have configs that plug and play with all these which add auto-format and linting for PHP files as well.
 
+package.json contains all my current configuration settings for one of my projects, well all the ones I could share related to JS and vue. But the babel, stylelint, prettier, eslint configs are all bundled together. Just seems easier to me.
+
 NOTE: Now I put all my dot files into the package.json file to reduce clutter, so I'll include it both ways here.
 
 ## VSCode Extensions
