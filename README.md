@@ -3,6 +3,8 @@
 * Auto-formats and lints .vue, .js, .scss
 * If anyone is interested I have configs that plug and play with all these which add auto-format and linting for PHP files as well.
 
+NOTE: Now I put all my dot files into the package.json file to reduce clutter, so I'll include it both ways here.
+
 ## VSCode Extensions
 * EditorConfig for VS Code - editorconfig.editorconfig
 * ESLint - dbaeumer.vscode-eslint
